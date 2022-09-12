@@ -1,4 +1,3 @@
-#source: https://www.youtube.com/watch?v=AEE9ecgLgdQ&t=1s
 import re
 
 #test_string = '123abc456789abc123ABC'
